@@ -1,7 +1,7 @@
 service: quotes
 provider:
   name: aws
-  runtime: python3.6
+  runtime: python3.9
   stage: dev
   region: us-east-1
   memorySize: 128
